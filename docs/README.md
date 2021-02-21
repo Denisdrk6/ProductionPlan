@@ -59,7 +59,7 @@ Now that we know what a Product Plan is and how it’s done, let’s see some ga
 
 **The cycle**: this multiplayer first person shooter game uses a simple, but yet effective, plan that shows what should be added for the next release and its deadline.
 
-![The cycle roadmap](/docs/images/development_roadmap_2.jpg)
+![The cycle roadmap](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/images/development_roadmap_2.jpg)
 
 It’s a great way to summarize all the content that has to be implemented and works really well on a project of any scale, though bigger AAA games might use a more complex system.
 <br/><br/><br/>
@@ -67,7 +67,7 @@ It’s a great way to summarize all the content that has to be implemented and w
 **Green Hell**: a survival video game that uses another common way to schedule the development. In this case, there is a list of updates, each with its own set of new content, and the deadlines are marked in year seasons.
 
 
-![Green Hell roadmap](/docs/images/development_roadmap_3.png)
+![Green Hell roadmap](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/images/development_roadmap_3.png)
 
 This technique is normally used for medium or big games, but smaller ones don’t usually take that long to be developed.
 <br/><br/><br/>
@@ -76,12 +76,12 @@ This technique is normally used for medium or big games, but smaller ones don’
 
 Destiny 2, as shown in the image below, divides its plans by seasons, indicating what changes and new features are coming to the game in its future versions, or in a certain period of time (year season, month).
 
-![Destiny 2 development roadmap](/docs/images/development_roadmap_1.jpg)
+![Destiny 2 development roadmap](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/images/development_roadmap_1.jpg)
 
 However, in order to promote future updates, Bungie (Destiny’s development company) creates a more detailed roadmap of what’s about to come in the next season, adding its duration, a simplified list of new features and changes, and a big image that shows the events that will occur in-game and when they will start.
 <br/><br/>
 
-![Destiny 2 seasonal roadmap](/docs/images/season_roadmap.jpg)
+![Destiny 2 seasonal roadmap](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/images/season_roadmap.jpg)
 <br/><br/><br/>
 
 # SELECTED APPROACH
