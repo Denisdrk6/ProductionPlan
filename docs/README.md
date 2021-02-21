@@ -127,6 +127,7 @@ Since we are developing a small game, we can center our plan around the next upc
 - **Task management**: to correctly manage the state of each task a good idea would be to use a kanban board. There are online webs, such as Trello or HacknPlan that already let you organize your project this way. You can use whatever you’re most comfortable with, but HacknPlan is the one that I recommend.
   - There will be 4 different states for the tasks: to do, in process, to revise, done.
   - The order in which these tasks are going to be completed is from most to less important. If a new important task (such as fixing a bug) suddenly appears, and everyone is already occupied with other ones, someone will have to stop working on their task and complete the important one first. Note that HacknPlan let’s you add an importance level to each task.
+  - If a task is complex, it may need a small description.
 
 - **Updates**: this document will be updated after each release is published. The new information will be the tasks needed to add the next features to the game, but also to solve any problems that may have occurred on the previous release.
 <br/><br/><br/>
