@@ -149,13 +149,22 @@ There are a few possible improvements to the solution provided that could make t
 
 Here are the templates we will use as Production Plans:
 
-- **PDF**:
-  - Light themed: General Plan / Release Plan
-  - Dark themed: General Plan / Release Plan
+- **General Plan**:
+  - PDF: ![Light themed](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_general_light.pdf) / ![Dark themed](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_general_dark.pdf)
+  - ![Excel](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_general.xlsx)
+  - ![Photoshop](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Photo_general.psd)
 
-- **Excel**: General Plan / Release Plan
-- **Trello**: image
-- **HacknPlan**: image
+![Empty photo plan](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/images/photo-general-plan-vacio.png)
+<br/><br/>
+![Full photo plan](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/images/photo-general-plan.png)
+
+- **Release Plan**:
+  - PDF: ![Light themed](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_release_light%20.pdf) / ![Dark themed](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_release_dark%20.pdf)
+  - ![Excel](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_release.xlsx)
+  - [Trello](https://trello.com/b/E997Hamg/release-product-plan)
+  - HacknPlan:
+
+![HacknPlan](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/images/hacknPlan.png)
 <br/><br/><br/>
 
 # DOCUMENTATION & REFERENCES
