@@ -159,7 +159,7 @@ Here are the templates we will use as Production Plans:
 ![Full photo plan](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/images/photo-general-plan.png)
 
 - **Release Plan**:
-  - PDF: [Light themed](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_release_light%20.pdf) / ![Dark themed](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_release_dark%20.pdf)
+  - PDF: [Light themed](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_release_light%20.pdf) / [Dark themed](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_release_dark%20.pdf)
   - [Excel](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template_release.xlsx)
   - [Trello](https://trello.com/b/E997Hamg/release-product-plan)
   - HacknPlan:
