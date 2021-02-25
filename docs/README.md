@@ -130,6 +130,11 @@ Since we are developing a small game, we can center our plan around the next upc
   - If a task is complex, it may need a small description.
 
 - **Updates**: this document will be updated after each release is published. The new information will be the tasks needed to add the next features to the game, but also to solve any problems that may have occurred on the previous release.
+<br/>
+
+Another way companies liek to plan their production is by using a Gantt Chart. It's a way to set when each task should start and how long it should take.
+
+![Gant Chart](images/Gantt-chart.png)
 <br/><br/><br/>
 
 # POSSIBLE IMPROVEMENTS
