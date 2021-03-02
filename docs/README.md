@@ -174,7 +174,7 @@ Here are the templates we will use as Production Plans:
 
 # DOCUMENTATION & REFERENCES
 
-- [Presentation](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/Presentation.pdf)
+- [Class presentation](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/Presentation.pdf) in PDF
 
 ### ***Tools***
 - [Trello](https://trello.com/)
