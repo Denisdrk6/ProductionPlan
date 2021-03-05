@@ -39,6 +39,8 @@
 |***21-27***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
 |***28-30***|TODO|TODO|TODO|||||
 
+<br/><br/>
+
 ## Record of the meetings
 ### Meeting 01 - Sprint
 Content of the meeting:
@@ -72,6 +74,8 @@ TODO:
 - 1
 - 2
 - 3
+
+<br/><br/>
 
 ## Risk and Contingency List
 
