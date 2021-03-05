@@ -6,7 +6,7 @@
 |***Date***|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |***01-07***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
-|***08-14***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
+|***08-14***|TODO|TODO|TODO|TODO|TODO|TODO|Concept Discovery Deadline|
 |***15-21***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
 |***22-28***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
 |***29-31***|TODO|TODO|TODO|||||
@@ -16,7 +16,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |***01-04***||||TODO|TODO|TODO|TODO|
 |***05-11***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
-|***12-18***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
+|***12-18***|TODO|TODO|TODO|TODO|TODO|TODO|Vertical Slice Deadline|
 |***19-25***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
 |***26-30***|TODO|TODO|TODO|TODO|TODO|||
 
@@ -25,15 +25,15 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |***01-02***||||||TODO|TODO|
 |***03-09***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
-|***10-16***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
+|***10-16***|TODO|TODO|TODO|TODO|TODO|TODO|Alpha Deadline|
 |***17-23***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
 |***26-30***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
 |***31***|TODO|||||||
 
 ### June
-|Date|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
+|***Date***|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|***01-06***||TODO|TODO|TODO|TODO|TODO|TODO|
+|***01-06***||TODO|TODO|Gold Deadline|TODO|TODO|TODO|
 |***07-13***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
 |***14-20***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
 |***21-27***|TODO|TODO|TODO|TODO|TODO|TODO|TODO|
