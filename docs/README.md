@@ -172,6 +172,8 @@ Here are the templates we will use as Production Plans:
 ![HacknPlan](images/hacknPlan.png)
 <br/><br/><br/>
 
+### **MarkDown template [HERE](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/templates/Template.md)**
+
 # DOCUMENTATION & REFERENCES
 
 - [Class presentation](https://github.com/Denisdrk6/ProductionPlan/blob/main/docs/Presentation.pdf) in PDF
